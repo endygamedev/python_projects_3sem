@@ -10,10 +10,10 @@
 
 
 def html(func):
-    from time import gmtime, strftime
+    from time import localtime, strftime
     def inner(*args, **kwargs):
         with open('my_file.html', 'w') as f:
-            f.write(f'{strftime("%Y/%m/%d %H:%M", gmtime())}\n<html>\n<strong>{func(*args, **kwargs)}</strong>\n</html>')
+            f.write(f'{strftime("%Y/%m/%d %H:%M", localtime())}\n<html>\n<strong>{func(*args, **kwargs)}</strong>\n</html>')
         return func(*args, **kwargs)
     return inner
 
