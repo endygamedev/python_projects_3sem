@@ -15,6 +15,10 @@ import codecs as cd
 
 
 def main() -> None:
+
+    with open('some_text.txt', 'w', encoding='utf-8') as file:
+        file.write('*Тут мог быть ваш текст*')
+
     sh.copyfile('some_text.txt', 'some_text_copy.txt', follow_symlinks=True)            # скопировал файл
     print(f"Совпадают ли файлы ? - {fl.cmp('some_text.txt', 'some_text_copy.txt')}")    # проврка на совпадение файлов
 
