@@ -21,9 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bb714022-bfa0-4538-a060-56001fb7f36d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Домашнее задание №10/Доклад №22 (trace, traceback, pdb)/Доклады/pdb.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Домашнее задание №10/Доклад №22 (trace, traceback, pdb)/Доклады/trace.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Домашнее задание №10/Доклад №22 (trace, traceback, pdb)/Доклады/traceback.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,7 @@
       <recent name="$PROJECT_DIR$/Домашнее задание №8/Задание" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task_1 (1)">
+  <component name="RunManager" selected="Python.task_1 (2)">
     <configuration name="task_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_projects_3sem" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,6 +69,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Домашнее задание №10/Доклад №25 (warnings, abs, dis, inspect)/Задания/task_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_projects_3sem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Домашнее задание №11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Домашнее задание №11/task_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,6 +163,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task_1 (2)" />
         <item itemvalue="Python.task_1 (1)" />
         <item itemvalue="Python.task_2 (1)" />
         <item itemvalue="Python.task_2" />
@@ -188,29 +207,29 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="2034" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1366.0.1920.1080/0.170.1366.768@1366.0.1920.1080" timestamp="1604610491848" />
-    <state x="2084" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604747405620">
+    <state x="2084" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605112626425">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="2084" y="311" width="424" height="491" key="FileChooserDialogImpl/1366.0.1920.1080/0.170.1366.768@1366.0.1920.1080" timestamp="1604747405620" />
-    <state width="1847" height="275" key="GridCell.Tab.0.bottom" timestamp="1604788708698">
+    <state x="2084" y="311" width="424" height="491" key="FileChooserDialogImpl/1366.0.1920.1080/0.170.1366.768@1366.0.1920.1080" timestamp="1605112626425" />
+    <state width="1847" height="275" key="GridCell.Tab.0.bottom" timestamp="1605264082080">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1847" height="275" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.170.1366.768@1366.0.1920.1080" timestamp="1604788708698" />
-    <state width="1847" height="275" key="GridCell.Tab.0.center" timestamp="1604788708697">
+    <state width="1847" height="275" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.170.1366.768@1366.0.1920.1080" timestamp="1605264082080" />
+    <state width="1847" height="275" key="GridCell.Tab.0.center" timestamp="1605264082080">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1847" height="275" key="GridCell.Tab.0.center/1366.0.1920.1080/0.170.1366.768@1366.0.1920.1080" timestamp="1604788708697" />
-    <state width="1847" height="275" key="GridCell.Tab.0.left" timestamp="1604788708697">
+    <state width="1847" height="275" key="GridCell.Tab.0.center/1366.0.1920.1080/0.170.1366.768@1366.0.1920.1080" timestamp="1605264082080" />
+    <state width="1847" height="275" key="GridCell.Tab.0.left" timestamp="1605264082080">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1847" height="275" key="GridCell.Tab.0.left/1366.0.1920.1080/0.170.1366.768@1366.0.1920.1080" timestamp="1604788708697" />
-    <state width="1847" height="275" key="GridCell.Tab.0.right" timestamp="1604788708697">
+    <state width="1847" height="275" key="GridCell.Tab.0.left/1366.0.1920.1080/0.170.1366.768@1366.0.1920.1080" timestamp="1605264082080" />
+    <state width="1847" height="275" key="GridCell.Tab.0.right" timestamp="1605264082080">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1847" height="275" key="GridCell.Tab.0.right/1366.0.1920.1080/0.170.1366.768@1366.0.1920.1080" timestamp="1604788708697" />
-    <state x="1915" y="236" width="762" height="642" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604788057882">
+    <state width="1847" height="275" key="GridCell.Tab.0.right/1366.0.1920.1080/0.170.1366.768@1366.0.1920.1080" timestamp="1605264082080" />
+    <state x="1915" y="236" width="762" height="642" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605262021515">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="1915" y="236" width="762" height="642" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1366.0.1920.1080/0.170.1366.768@1366.0.1920.1080" timestamp="1604788057882" />
+    <state x="1915" y="236" width="762" height="642" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1366.0.1920.1080/0.170.1366.768@1366.0.1920.1080" timestamp="1605262021515" />
   </component>
 </project>
